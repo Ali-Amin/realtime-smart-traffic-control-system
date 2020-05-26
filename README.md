@@ -27,3 +27,4 @@ where the states denote the following:
 ## Limitations
 - Traffic video cannot be directly used for testing since cars will not respond to feedback from the model
 - Each region has a different size, meaning that 1 car in each region will have a different average value in each one, but this is worked-around by using different decision boundary values for each region
+- Slow considering it is a real-time system
