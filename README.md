@@ -1,7 +1,7 @@
 # Smart Traffic Control System using Digital Image Processing
 An automated traffic control system for junction. Written completely in `python3` using digital image processing concepts written from scratch (no `opencv`)
 
-<i>Junction dataset can be found at here ![url](https://personal.ie.cuhk.edu.hk/~ccloy/downloads_qmul_junction.html)</i>
+<i>Junction dataset can be found [here](https://personal.ie.cuhk.edu.hk/~ccloy/downloads_qmul_junction.html)</i>
 
 ## The system is capable of automating this junction
 ![image](https://github.com/Ali-Amin/smart-traffic-system-using-dip/blob/master/assets/frame3.png)
